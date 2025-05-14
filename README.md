@@ -17,7 +17,8 @@ Descripción
  -Almacenamiento persistente en archivos locales
  -Sistema de clasificación integrado
  -Manejo de errores robusto
- -Tecnologías Utilizadas
+ 
+ Tecnologías Utilizadas
 
     Java 17+ - Lenguaje base
 
